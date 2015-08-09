@@ -495,28 +495,28 @@ style "default"
 	{
 		function	= EXPANDER
 		expander_style	= COLLAPSED
-		file		= "Expanders/plus.png"
+		file		= "Expanders/collapsed.png"
 	}
 
 	image
 	{
 		function	= EXPANDER
 		expander_style	= EXPANDED
-		file		= "Expanders/minus.png"
+		file		= "Expanders/expanded.png"
 	}
 
 	image
 	{
 	    	function	= EXPANDER
 	   	expander_style	= SEMI_EXPANDED
-	    	file		= "Expanders/minus.png"
+	    	file		= "Expanders/expanded.png"
 	}
 
 	image
 	{
 		function	= EXPANDER
 		expander_style	= SEMI_COLLAPSED
-		file		= "Expanders/plus.png"
+		file		= "Expanders/collapsed.png"
 	}
 
 	image
